@@ -60,4 +60,18 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+```
+S.No	   LCM	   WCM	   NA
+1	      2.5	   0.3	   0.059
+```
+## calculation
+<img width="280" height="208" alt="514771468-67210885-b96f-4898-9d83-9625d90c1ac2" src="https://github.com/user-attachments/assets/e6c38f1b-aa9d-4d7c-bc16-d3b3c1651c07" />
+
+<img width="773" height="588" alt="514771426-8d7a1f09-4b7b-446f-b464-d1b6b3937d71" src="https://github.com/user-attachments/assets/77171f7e-8a02-47ee-bc2f-313c471851e9" />
+
+<img width="831" height="353" alt="514771495-ffaa5b57-d25b-44b4-b39b-b4b3416f5662" src="https://github.com/user-attachments/assets/4d4fa483-bccf-4424-9a8d-8927de658d6f" />
+
+<img width="796" height="353" alt="514771572-a8c0da3f-445d-4169-95dc-bbdc3f5ed3e9" src="https://github.com/user-attachments/assets/f267281c-b9ed-4f57-9e11-07873402cdbc" />
+
 ## Result
+Thus the mode characteristics of fibre optic cable is verified and output is studied succesfully
